@@ -1,0 +1,6 @@
+﻿  task4.cpp
+e:\study\os&sp\laba3\task4\task4\task4\task4.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+e:\study\os&sp\laba3\task4\task4\task4\task4.cpp(174): warning C4018: <: несоответствие типов со знаком и без знака
+e:\study\os&sp\laba3\task4\task4\task4\task4.cpp(220): warning C4715: LoadAndBlitBitmap: значение возвращается не при всех путях выполнения
+e:\study\os&sp\laba3\task4\task4\task4\object.h(50): warning C4715: Object::Draw: значение возвращается не при всех путях выполнения
+  task4.vcxproj -> E:\study\OS&SP\laba3\task4\task4\Debug\task4.exe

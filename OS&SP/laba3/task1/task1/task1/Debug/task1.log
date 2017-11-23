@@ -1,0 +1,5 @@
+﻿  task1.cpp
+e:\study\os&sp\laba3\task1\task1\task1\task1.cpp(31): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "HANDLE"
+e:\study\os&sp\laba3\task1\task1\task1\task1.cpp(67): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "HANDLE"
+e:\study\os&sp\laba3\task1\task1\task1\task1.cpp(43): warning C4101: bff: неиспользованная локальная переменная
+  task1.vcxproj -> E:\study\OS&SP\laba3\task1\task1\Debug\task1.exe
